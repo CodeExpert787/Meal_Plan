@@ -1,12 +1,14 @@
 # Meal_Plan
 
 ### 
+1. **Install Python 3.13.5**
 
-1. **Install python module**
+2. **Install python module**
+  
    - pip install -r requirements.txt
 
-2. **Run project**
+3. **Run project**
    - python app.py
 
-3. **Visit site**
+4. **Visit site**
    - http://localhost:5000
